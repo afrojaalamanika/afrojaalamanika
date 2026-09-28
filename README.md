@@ -1,4 +1,4 @@
-# Hi 👋, I'm <Afroja Alam Anika>  
+# Hi 👋, I'm Afroja Alam Anika
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
