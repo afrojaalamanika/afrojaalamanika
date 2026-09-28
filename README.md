@@ -3,7 +3,7 @@
 
 ---
 
-## 👨💻 About Me  
+## 💻 About Me  
 I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
 Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
 
@@ -37,9 +37,9 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
+| **GitHub Stats** | **Most Used Languages** |
 | :---: | :---: |
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrojaalamanika&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrojaalamanika&layout=compact&theme=default) |
 
