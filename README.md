@@ -39,10 +39,8 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ## 📊 GitHub Stats
 
-| **GitHub Stats** | **Most Used Languages** |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?afrojaalamanika&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrojaalamanika&layout=compact&theme=default) |
+![GitHub Streak](https://streak-stats.demolab.com?user=afrojaalamanika)
 
----
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afrojaalamanika)
 
-![Profile views](https://komarev.com/ghpvc/?afrojaalamanika&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=afrojaalamanika&style=flat-square)
