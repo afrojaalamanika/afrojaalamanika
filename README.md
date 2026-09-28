@@ -41,6 +41,5 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=afrojaalamanika)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afrojaalamanika)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=afrojaalamanika&style=flat-square)
